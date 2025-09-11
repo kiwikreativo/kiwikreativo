@@ -8,7 +8,7 @@
 
 About Me
 
-- I'm a full stack software developer 👨🏽‍💻
+- I'm a frontend developer with full-stack knowledge 👨🏽‍💻
 - I'm 25 years old and located in Alajuela, Costa Rica 🇨🇷
 - I love to play football, and I am a big fan of Liga Deportiva Alajuelense ⚽
 - Owner of <a href="https://sharguidev.com/">Sharguidev<a/> 🌐
