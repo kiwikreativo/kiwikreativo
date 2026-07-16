@@ -17,7 +17,7 @@
 
 I'm a frontend/fullstack developer based in Alajuela, Costa Rica, focused on helping **small and medium-sized businesses** solve digital presence challenges through user-focused UI/UX, frontend development, and business needs analysis. My core strength is **Frontend Engineering**, but I also contribute across the backend to deliver end-to-end products.
 
-I currently run **[Kiwikreativo](#)**, my own creative agency, and I'm actively looking for opportunities as a **Junior Frontend/Fullstack Developer**.
+I currently run **[Kiwikreativo](#)**, my own creative agency, and I'm actively looking for opportunities as a **Junior/Mid-Level Frontend/Fullstack Developer**.
 
 - 🔭 Currently working on my personal portfolio with **Astro** and on **El Hogar del Mueble**, a furniture e-commerce site (Astro + Flask + PostgreSQL)
 - 🌱 Deepening my knowledge of **DevOps/SRE**: Docker, Kubernetes, Go
