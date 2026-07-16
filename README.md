@@ -19,9 +19,9 @@ I'm a frontend/fullstack developer based in Alajuela, Costa Rica, focused on hel
 
 I currently run **[Kiwikreativo](#)**, my own creative agency, and I'm actively looking for opportunities as a **Junior/Mid-Level Frontend/Fullstack Developer**.
 
-- 🔭 Currently working on my personal portfolio with **Astro** and on **El Hogar del Mueble**, a furniture e-commerce site (Astro + Flask + PostgreSQL)
+- 🔭 Currently working on my personal portfolio with **Astro** and on **along with client projects for Meguis Logistics and Decorazon Joss**.
 - 🌱 Deepening my knowledge of **DevOps/SRE**: Docker, Kubernetes, Go
-- 🐧 Advanced **Manjaro Linux + Hyprland** user (HyDE rice, Waybar, Rofi)
+- 🐧 With knowledge in **Manjaro Linux + Hyprland** user (HyDE rice, Waybar, Rofi)
 - 💬 Spanish (native), English (B2), Italian (A1)
 
 ---
