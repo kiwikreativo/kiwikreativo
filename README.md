@@ -11,7 +11,6 @@
 - I'm a frontend developer with full-stack knowledge 👨🏽‍💻
 - I'm 25 years old and located in Alajuela, Costa Rica 🇨🇷
 - I love to play football, and I am a big fan of Liga Deportiva Alajuelense ⚽
-- Owner of <a href="https://sharguidev.com/">Sharguidev<a/> 🌐
 
 
 🔭 I’m currently building an AI-powered boilerplate generator that lets developers spin up production-ready project templates in seconds — front-end, back-end, or full-stack, complete with Docker setup.<br><br>🤝 I’m looking for help with<br>→ feedback on developer experience,<br>→ testing real-world use cases,<br>→ and ideas for integrations that make setup truly zero-friction.<br><br>🌱 I’m currently learning how to optimize productivity systems and workflows using Notion, especially for managing projects and automation.<br><br>💬 Ask me about<br>→ rapid project setup strategies<br>→ developer tooling & automation<br>→ structuring scalable full-stack apps<br>→ turning ideas into working prototypes fast<br><br>⚡ Fun fact<br>I love building tools that remove boring setup work — if something takes more than a few minutes to start, I want to automate it.
