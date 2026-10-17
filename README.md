@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer | Frontend & Fullstack Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2EA3F2&center=true&vCenter=true&width=600&lines=Frontend+Engineer+specialized+in+Astro;Building+digital+solutions+for+SMBs;Python+%2B+Flask+%2B+PostgreSQL+HonoJS+on+the+backend;Linux+%2F+Hyprland+power+user" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2EA3F2&center=true&vCenter=true&width=600&lines=Frontend+Engineer+specialized+in+Astro;Building+digital+solutions+for+SMBs;Python+%2B+Flask+%2B+PostgreSQL+%2B+HonoJS+on+the+backend;Linux+%2F+Hyprland+power+user" alt="Typing SVG" />
 </p>
 
 <p align="center">
